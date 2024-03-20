@@ -5,4 +5,3 @@ Various Kaggle Data Science and ML Projects
   - Output: 418 predictions of survival for unseen data
   - Method: Decision Tree Classifier
   - Current Score: 76% of predictions are correct
--   
